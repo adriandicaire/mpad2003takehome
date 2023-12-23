@@ -44,8 +44,6 @@ We chose a line chart because it would show an obvious increase in service reque
 *Figure 2: Average paramedic service requests made each month (created with Datawrapper)*
 [Interactive version here](https://datawrapper.dwcdn.net/7Zkfh/6/)
 
-[Link to Google Spreadsheet of the service request dataset](https://docs.google.com/spreadsheets/d/1TpiDvfVl-eIdA5OWEkpyTa94YRdLukAvup9NsiNlXVc/edit?usp=sharing)
-
 We also created a bar chart to make a direct comparison of the average number of requests made each month from 2021-2022. Statistics Canada (2021) says in section 5.2 of their Power from Data site that the grouped column chart is good at directly comparing sets of data to one another. The dark blue bar represents the year 2021 and the light blue bar represents the year 2022.
 
 ## Why service requests are going up
