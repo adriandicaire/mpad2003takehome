@@ -82,5 +82,5 @@ Paramedic services are currently petitioning the provincial government for chang
 
 Porter, K. (2023). *'Level zero' ambulance problem worsens dramatically in Ottawa in 2022*. CBC News. [https://www.cbc.ca/news/canada/ottawa/paramedic-level-zero-incidents-2022-availability-numbers-1.6746551](https://www.cbc.ca/news/canada/ottawa/paramedic-level-zero-incidents-2022-availability-numbers-1.6746551)
 
-Statistics Canada (2021). *Statistics: Power from Data!*. [https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch9/bargraph-diagrammeabarres/5214818-eng.htm](https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch9/bargraph-diagrammeabarres/5214818-eng.htm)
+Statistics Canada (2021). *Statistics: Power from Data!*. [https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch9/5214821-eng.htm](https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch9/5214821-eng.htm)
 
